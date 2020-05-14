@@ -12,9 +12,14 @@ This project is currently a work in progress. If you are interested in contribut
 
 ## Development
 
-Run the following commands:
+To set up the project, run the following commands:
 
 1. `pip3 install --user pipenv`
 1. `git clone https://github.com/willfindlay/chessbattle.ai && cd chessbattle.ai`
 1. `pipenv install --dev`
 1. `pipenv shell`
+
+To run the server, run the following commands:
+
+1. `python3 ./bin/server`
+1. Navigate to `localhost:5000` in your browser to interact with the server.
