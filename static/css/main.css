@@ -7,6 +7,9 @@
  * Kroc Camen, and the H5BP dev community and team.
  */
 
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
@@ -15,6 +18,7 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  font-family: 'Raleway', sans-serif;
 }
 
 /*
