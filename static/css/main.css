@@ -10,6 +10,23 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
+/* Board style */
+#board {
+  /* Bound width and height by viewport */
+  max-width:100vw;
+  max-height:100vh;
+
+  /* Allow the image to be centered horizontally */
+  display: block;
+
+  /* Make the thing resize and reposition automatically */
+  height: auto;
+  margin: auto;
+  overflow: auto;
+}
+
+/* Defaults below this line ================================================= */
+
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
