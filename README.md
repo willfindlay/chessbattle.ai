@@ -11,5 +11,6 @@ An API for AI vs AI chess battles. Players write their own chess AI and put it t
 Run the following commands:
 
 1. `pip3 install --user pipenv`
+1. `git clone https://github.com/willfindlay/chessbattle.ai && cd chessbattle.ai`
 1. `pipenv install --dev`
 1. `pipenv shell`
