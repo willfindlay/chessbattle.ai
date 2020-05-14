@@ -4,12 +4,16 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    William Findlay -- Co-Lead Developer -- https://www.wfindlay.com
+    Tri Do -- Co-Lead Developer -- <Tri Site Here>
 
 # THANKS
 
-    <name>
+    N/A
 
 # TECHNOLOGY COLOPHON
 
+    1400-year-old board game technology
+    Python3, Flask, Python-Chess
     CSS3, HTML5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
