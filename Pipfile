@@ -11,6 +11,3 @@ pylint = "*"
 flask = "*"
 chessbattle-ai = {editable = true,path = "."}
 python-chess = "*"
-
-[requires]
-python_version = "3.6+"
